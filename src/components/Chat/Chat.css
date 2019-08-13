@@ -1,0 +1,11 @@
+.list-group {
+    min-height: calc(100vh - 344.28px);
+    max-height: calc(100vh - 344.28px);
+    overflow-y: scroll;
+    flex-direction: column-reverse !important;
+}
+
+.md-form .prefix {
+    left: 0
+}
+
