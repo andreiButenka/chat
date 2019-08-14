@@ -3,7 +3,7 @@ import NameInput from '../NameInput/NameInput'
 import ChatInput from '../ChatInput/ChatInput'
 import ChatMessage from '../ChatMessage/ChatMessage'
 import DraftMessage from '../DraftMessage/DraftMessage'
-import Notification  from '../NameInput/Notification';
+import Notification  from '../Notification/Notification';
 import Header from '../Header/Header';
 import { MDBCard, MDBCardBody, MDBRow, MDBCol, MDBListGroup } from "mdbreact";
 import './Chat.css'
