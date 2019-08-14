@@ -8,7 +8,7 @@ import Header from '../Header/Header';
 import { MDBCard, MDBCardBody, MDBRow, MDBCol, MDBListGroup } from "mdbreact";
 import './Chat.css'
 
-const URL = 'ws://st-chat.shas.tel'
+const URL = 'wss://wssproxy.herokuapp.com/'
 
 class Chat extends Component {
   state = {
