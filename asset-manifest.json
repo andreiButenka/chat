@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/chat/static/css/main.bcc6ea5e.chunk.css",
+    "main.js": "/chat/static/js/main.0c4ad8a6.chunk.js",
+    "main.js.map": "/chat/static/js/main.0c4ad8a6.chunk.js.map",
+    "runtime~main.js": "/chat/static/js/runtime~main.54cd968c.js",
+    "runtime~main.js.map": "/chat/static/js/runtime~main.54cd968c.js.map",
+    "static/css/2.ba6be641.chunk.css": "/chat/static/css/2.ba6be641.chunk.css",
+    "static/js/2.e45fb82f.chunk.js": "/chat/static/js/2.e45fb82f.chunk.js",
+    "static/js/2.e45fb82f.chunk.js.map": "/chat/static/js/2.e45fb82f.chunk.js.map",
+    "index.html": "/chat/index.html",
+    "precache-manifest.ab2950199f7c9f6370fb63f05d15a11d.js": "/chat/precache-manifest.ab2950199f7c9f6370fb63f05d15a11d.js",
+    "service-worker.js": "/chat/service-worker.js",
+    "static/css/2.ba6be641.chunk.css.map": "/chat/static/css/2.ba6be641.chunk.css.map",
+    "static/css/main.bcc6ea5e.chunk.css.map": "/chat/static/css/main.bcc6ea5e.chunk.css.map",
+    "static/media/mdb.css": "/chat/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/chat/static/media/fa-solid-900.f14c3b2f.ttf"
+  }
+}
